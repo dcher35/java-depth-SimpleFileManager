@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.IOException;
 import static org.junit.jupiter.api.Assertions.*;
 
-class SimpleFileOperationsTest {
+class SimpleFileManagerTest {
     private static final String DIRECTORY_PATH = "C:/Users/dcher/Documents/Java/java-SimpleFileManager";
     private static final String FILE_NAME = "testFile.txt";
     private static File file;
